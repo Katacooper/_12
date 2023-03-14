@@ -32,7 +32,6 @@ public class Main {
         // Start your code here
         String checks = "";
         yourScore = text.length();
-        System.out.printf("Score: " + yourScore);
         if(yourScore > 20)
         {
             yourScore = 20;
